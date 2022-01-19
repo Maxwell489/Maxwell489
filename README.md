@@ -17,6 +17,7 @@ Abaixo segue algumas estatísticas pessoais e formas de contatos comigo:
 <div align="center">
   <a href="https://github.com/Maxwell489">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxwell489&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell489&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
